@@ -37,4 +37,4 @@ One of my favorite examples is her poem titled "Two Sisters of Persephone":
 >Goes graveward with flesh laid waste,\
 >Worm-husbanded, yet no woman.
 
-To read more about Sylvia Plath's life and to discover more of her poetry, visit the [Poetry Foundation's site](https://www.poetryfoundation.org/poets/sylvia-plath).
+:sparkles: To read more about Sylvia Plath's life and to discover more of her poetry, visit the [Poetry Foundation's site](https://www.poetryfoundation.org/poets/sylvia-plath).:sparkles:
